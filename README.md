@@ -23,7 +23,7 @@ This semester, I'm working on:
 - Enhance my data storytelling abilities, promoting effective communication at all stages of the data analysis process, from exploration to deliverables.  
 
 ## 📬 Contact Information
-Below are a few places you can reach me for more information on my projects or experiences:
-- View my [data science portfolio](https://github.com/llatimer031/Latimer-Data-Science-Portfolio)
-- Find me on [LinkedIn](www.linkedin.com/in/lauren-a-latimer)
+Provided are a few places you can reach me for more information on my projects or experiences:
+- [My Portfolio](https://github.com/llatimer031/Latimer-Data-Science-Portfolio)
+- [LinkedIn](www.linkedin.com/in/lauren-a-latimer)
 - [Email me](mailto:llatimer@nd.edu)
