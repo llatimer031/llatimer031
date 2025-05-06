@@ -1,8 +1,5 @@
 # Welcome to my GitHub!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llatimer031&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llatimer031&layout=compact)
-
 My name is Lauren, and I am a senior at the University of Notre Dame who is passionate about applying the analytical techniques I have learned to different data-driven approaches. Please see below for a few facts about me!
 - **Major:** Applied Computational Math and Statistics
 - **Minor:** Data Science
